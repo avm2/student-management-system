@@ -13,8 +13,6 @@ class Student{
 
 		string name;
 
-	
-
 	public:
 
 		Student(int stdId, string stdName,int stdAge){
@@ -28,8 +26,6 @@ class Student{
 			
 
 		}		
-
-		
 
 		void setRollno(int stdId){
 
